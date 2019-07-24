@@ -30,3 +30,6 @@ function makeInt(n) {
 function makeInt(n) {
   return parseInt(n, 10)
 }
+function preserveDecimcal (n) {
+  return parseFloat(n, 2.2222)
+}
