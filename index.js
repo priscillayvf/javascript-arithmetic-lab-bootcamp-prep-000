@@ -23,4 +23,4 @@ function inc(n) {
 function dec(n) {
   return n - 1
 }
-function 
+function makeInt(n) parseInt(10) {
